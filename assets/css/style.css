@@ -1,0 +1,60 @@
+
+
+body {
+	background-color: #dddddd;
+
+}
+
+#Center{
+    margin: 0 auto;
+    width: 960px;
+}
+
+#Content{
+	margin: 0 auto;
+	width: 650px;
+}
+
+header {
+	background-color: #ffffff;
+
+}
+#Name{
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	float: left;
+}
+
+#Info{
+	color: #777777;
+	width: 270px;
+
+}
+
+section{
+	background-color: #ffffff;
+}
+
+#About{
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+#Paragraph{
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#Connect{
+	color: #4aaaa5;
+	background-color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+#Foot{
+	background-color: #666666;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
